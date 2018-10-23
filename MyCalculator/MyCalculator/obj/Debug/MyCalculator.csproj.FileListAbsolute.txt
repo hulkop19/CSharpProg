@@ -1,0 +1,10 @@
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\bin\Debug\MathNet.Numerics.dll
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\bin\Debug\MathNet.Numerics.xml
+C:\Users\dima\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CopyComplete
