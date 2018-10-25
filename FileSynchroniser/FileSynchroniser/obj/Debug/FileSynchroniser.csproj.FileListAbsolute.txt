@@ -1,0 +1,7 @@
+C:\Users\dima\source\repos\FileSynchroniser\FileSynchroniser\bin\Debug\FileSynchroniser.exe.config
+C:\Users\dima\source\repos\FileSynchroniser\FileSynchroniser\bin\Debug\FileSynchroniser.exe
+C:\Users\dima\source\repos\FileSynchroniser\FileSynchroniser\bin\Debug\FileSynchroniser.pdb
+C:\Users\dima\source\repos\FileSynchroniser\FileSynchroniser\obj\Debug\FileSynchroniser.csprojAssemblyReference.cache
+C:\Users\dima\source\repos\FileSynchroniser\FileSynchroniser\obj\Debug\FileSynchroniser.csproj.CoreCompileInputs.cache
+C:\Users\dima\source\repos\FileSynchroniser\FileSynchroniser\obj\Debug\FileSynchroniser.exe
+C:\Users\dima\source\repos\FileSynchroniser\FileSynchroniser\obj\Debug\FileSynchroniser.pdb
