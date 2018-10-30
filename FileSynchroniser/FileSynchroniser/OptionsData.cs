@@ -31,7 +31,7 @@ namespace FileSynchroniser
             {
                 XmlDocument xmlDoc = new XmlDocument();
 
-                XmlDeclaration xmlDec = xmlDoc.CreateXmlDeclaration("1.0", "utf-8", null);
+                XmlDeclaration xmlDec = xmlDoc.CreateXmlDeclaration("1.0", "unicode", null);
                 xmlDoc.AppendChild(xmlDec);
 
                 XmlElement xmlElemOptionsList = xmlDoc.CreateElement("options");
